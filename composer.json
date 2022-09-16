@@ -20,5 +20,6 @@
     },
     "autoload" : {
          "classmap": [ "src/"]
-    }
+    },
+    "prefer-stable": true
 }
